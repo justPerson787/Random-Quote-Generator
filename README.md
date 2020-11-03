@@ -13,6 +13,4 @@ JavaScript, HTML, CSS
 * User can generate new quote by pressing button
 * User can retweet this quote dirrectly to his/her twitter account
 
-Unsplash API, customized loader icon for better user experience
-
 ![alt text](https://github.com/justPerson787/Random-Quote-Generator/blob/master/screenshot.png "screenshot").
